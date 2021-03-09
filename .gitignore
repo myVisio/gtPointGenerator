@@ -1,0 +1,13 @@
+*.mat
+
+!TemplateDictionary.mat
+
+*.jpg
+
+!Camera.jpg
+
+*.png
+
+!Feature_Detection.png
+
+!Matching_Points.png
